@@ -21,7 +21,7 @@ public class DBWorkSet {
             e.printStackTrace();
         }
     }
-
+ 
     public void excecuteQuery(String query) {
 
         try {
